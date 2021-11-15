@@ -1,0 +1,28 @@
+#img-section{
+    text-align: center;
+    padding: 2%;
+}
+
+#product-details{
+    padding: 2%;
+    font-size: 70%;
+}
+
+.title{
+    font-weight: bold;
+    font-size: 250%;
+}
+
+#single-image{
+    width: 100%;
+}
+
+del{
+    color: red;
+}
+
+.heading-related-pro{
+    padding-top: 2%;
+    padding-bottom: 3%;
+    font-size: 180%;
+}

@@ -1,0 +1,41 @@
+.footers{
+    background-color: #E1D8D7;
+    color: black;
+    margin-top: 10%;
+}
+#social-fb:hover {
+    color: #3B5998;
+    transition:all .001s;
+ }
+ #social-tw:hover {
+    color: #4099FF;
+    transition:all .001s;
+ }
+ #social-gp:hover {
+    color: #d34836;
+    transition:all .001s;
+ }
+ #social-em:hover {
+    color: #f39c12;
+    transition:all .001s;
+ }
+
+ .address-footer{
+    font-size: 80%;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    background-color: #E1D8D7;
+ }
+ .copyright{
+    font-size: 80%;
+    background-color: black;
+    color: white;
+    font-weight: bold;
+ }
+
+ .social-media{
+    background-color: #E1D8D7;
+ }

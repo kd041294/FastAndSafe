@@ -1,0 +1,29 @@
+.heading-offer{
+    margin: 2%;
+    padding: 4%;
+    font-weight: bold;
+    font-size: 150%;
+}
+
+.offer{
+    margin: 2%;
+    padding: 3%;
+    color:green;
+    text-align: center;
+}
+
+.offer-banner{
+    font-size: 120%;
+    text-align: center;
+}
+
+.offer-name{
+    font-size: 110%;
+    font-weight: bold;
+}
+
+
+.offer-des{
+    overflow-wrap: break-word;
+    font-size: 80%;
+}

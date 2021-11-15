@@ -1,0 +1,20 @@
+.gro-cards{
+    text-align: center;
+    font-weight: bold;
+    font-size: 110%;
+    margin-top: 2%;
+    margin-bottom: 2%;
+}
+
+.gro-cards h3{
+    color: green;
+    font-weight: bold;
+    font-size: 100%;
+}
+
+.category-sec-img{
+    width: 100%;
+    height: 58%;
+    margin: 1%;
+}
+

@@ -1,0 +1,41 @@
+.special-offr-head{
+    padding: 2%;
+    background-color: #FBAE9D;
+    border-radius: 25px;
+    margin-top: 3%;
+    margin-left: 1px;
+    margin-right: 1px;
+  }
+
+  .special-items{
+    margin-top: 1%;
+    padding: 2%;
+  }
+
+  .special-cards{
+    margin-top: 1%;
+    font-size: 70%;
+    margin-bottom: 1%;
+    padding: 2%;
+    width: 32%;
+    height: 100%;
+  }
+  .item-img{
+    padding: 5%;
+    margin: auto;
+  }
+
+  .add-button{
+    font-size: 80%;
+    padding: 0;
+  }
+
+.center{
+  width: 150px;
+  margin: 40px auto;
+
+}
+.input-number{
+  width: 100%;
+  padding: 0;
+}
