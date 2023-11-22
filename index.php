@@ -39,7 +39,7 @@
       </div>
       <div class="osahan-footer fixed-bottom p-3">
          <a class="btn btn-success btn-lg w-100 d-flex align-items-center shadow" href="<?php echo $routes['landing']; ?>">
-         Get Starte <i class="icofont-arrow-right ms-auto"></i>
+         Get Starte hello <i class="icofont-arrow-right ms-auto"></i>
          </a>
       </div>
       <script src="vendor/jquery/jquery.min.js"></script>
